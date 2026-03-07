@@ -67,7 +67,7 @@
 <table>
     <tr>
         <td>
-<p></p>
+<p>Esse é o momento em que os indicadores previamente definidos ganham forma e sentido com as respostas dos beneficiários ao formulário e são expostos visualmente em um dashboard geral, que servirá de embasamento empírico para as conclusões e sugestões abordadas no relatório tecnico</p>
         </td>
     </tr>
 </table>
