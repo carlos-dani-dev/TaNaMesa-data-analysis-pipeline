@@ -32,6 +32,7 @@
 </table>
 
 ---
+
 #### Modelagem e entendimento do problema
 <table>
     <tr>
@@ -42,6 +43,23 @@ Para execução desta etapa, o planejamento estratégico baseado na montagem de 
     <tr>
         <td>
 Utilizou-se a ferramenta de planejamento própria para a visualização de KPIs, a Árvore de KPIs, o que facilitou significativamente a discussão do papel e da utilidade real de cada um dos indicadores definidos pela equipe.
+        </td>
+    </tr>
+</table>
+
+---
+
+#### Formulação das perguntas da pesquisa
+<table>
+    <tr>
+        <td>
+Para esta etapa, são muitas as nuances a serem consideradas para que o formulário de respostas confeccionado seja verdadeiramente pertinente aos beneficiários do programa e retrate de maneira fiel os desafios e dilemas que eles enfrentam. Como:
+        </td>
+    </tr>
+    <tr>
+        <td>
+- A acessibilidade da linguagem das perguntas e alternativas
+- A objetividade das perguntas e alternativas
         </td>
     </tr>
 </table>
