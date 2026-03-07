@@ -71,8 +71,6 @@
         </tr>
 </table>
 
----
-
 <table>
         <tr>
         <td>
@@ -131,7 +129,7 @@
             </td>
         </tr>
 </table>
----
+
 
 <table>
         <tr>
@@ -184,7 +182,6 @@
         </tr>
 </table>
 
----
 
 <table>
         <tr>
@@ -285,7 +282,6 @@
         </tr>
 </table>
 
----
 
 <table>
         <tr>
@@ -322,7 +318,6 @@
         </tr>
 </table>
 
----
 
 <table>
         <tr>
