@@ -348,38 +348,38 @@
 
 ---
 
-#### Os KPIs se relacionam a cada uma das hipóteses, podendo se relacionar a mais de uma ao mesmo tempo.
+#### Os KPIs, listados abaixo, se relacionam a cada uma das hipóteses, podendo se relacionar a mais de uma ao mesmo tempo.
 
 | KPI | Nome do indicador | Questões usadas | Regra de cálculo | Tipo do indicador | Sentido |
 |-----|-------------------|-----------------|------------------|------------------|---------|
-| KPI 1 | Beneficiários em situação de vulnerabilidade alimentar grave |  |  | Condição atual dos beneficiários | Neutro |
-| KPI 2 | Proporção de beneficiários em vulnerabilidade alimentar grave em relação a todos os beneficiários |  |  | Condição atual dos beneficiários | Neutro |
-| KPI 3 | Frequência semanal média de acesso às refeições por beneficiários em vulnerabilidade alimentar grave |  |  | Condição atual dos beneficiários | Neutro |
-| KPI 4 | Beneficiários em vulnerabilidade alimentar grave que já ficaram sem refeição mesmo aguardando na fila |  |  | Falha recorrente de atendimento ao público prioritário | Quanto menor, melhor |
-| KPI 5 | Frequência semanal média de acesso às refeições por beneficiários que não estão em vulnerabilidade alimentar grave |  |  | Condição atual dos beneficiários | Quanto menor, melhor |
-| KPI 6 | Dependência familiar do programa |  |  | Condição atual dos beneficiários | Neutro |
-| KPI 7 | Insuficiência alimentar domiciliar |  |  | Condição atual dos beneficiários | Quanto menor, melhor |
-| KPI 8 | Sinalização do restaurante |  |  | Condição atual dos restaurantes | Quanto menor, melhor |
-| KPI 9 | Sinalização da quantidade de refeições servidas diariamente |  |  | Condição atual dos restaurantes | Quanto menor, melhor |
-| KPI 10 | Sujeira percebida no restaurante |  |  | Condição atual dos restaurantes | Quanto menor, melhor |
-| KPI 11 | Dificuldade de acesso ao restaurante |  |  | Condição atual dos restaurantes | Quanto menor, melhor |
-| KPI 12 | Dificuldade de acesso ao restaurante por beneficiários da zona rural |  |  | Condição atual dos restaurantes | Quanto menor, melhor |
-| KPI 13 | Dificuldade de acesso ao restaurante por beneficiários em vulnerabilidade alimentar grave |  |  | Condição atual dos restaurantes | Quanto menor, melhor |
-| KPI 14 | Recebimento de pagamento e manuseio da refeição simultaneamente |  |  | Condição atual dos restaurantes | Quanto menor, melhor |
-| KPI 15 | Não recebimento da refeição mesmo após esperar na fila |  |  | Condição atual dos restaurantes | Quanto menor, melhor |
-| KPI 16 | Dificuldade de acesso ao restaurante por ausência de acessibilidade estrutural |  |  | Condição atual dos restaurantes | Quanto menor, melhor |
-| KPI 17 | Dificuldade de acesso ao restaurante devido à localização |  |  | Condição atual dos restaurantes | Quanto menor, melhor |
-| KPI 18 | Tempo médio de espera para recebimento da refeição |  |  | Condição atual dos restaurantes | Quanto menor, melhor |
-| KPI 19 | Condição de espera para recebimento da refeição é precária |  |  | Condição atual dos restaurantes | Quanto menor, melhor |
-| KPI 20 | Ocorrência de refeição estragada |  |  | Condição atual das refeições | Quanto menor, melhor |
-| KPI 21 | Falta de variedade do cardápio do restaurante |  |  | Condição atual do cardápio | Quanto menor, melhor |
-| KPI 22 | Beneficiários que não gostam completamente do cardápio |  |  | Condição percebida do cardápio | Quanto menor, melhor |
-| KPI 23 | Beneficiários só descobrem o cardápio após comprar a ficha |  |  | Condição percebida do cardápio | Quanto menor, melhor |
-| KPI 24 | Beneficiários descartam refeições quando não gostam do cardápio |  |  | Insatisfação e desperdício | Quanto menor, melhor |
-| KPI 25 | Indiferença em relação às sugestões dos beneficiários |  |  | Relevância das sugestões dos beneficiários | Quanto menor, melhor |
-| KPI 26 | Falta de divulgação sobre possibilidade de sugerir mudanças no cardápio |  |  | Relevância das sugestões dos beneficiários | Quanto menor, melhor |
-| KPI 27 | Insuficiência da quantidade de comida em cada refeição |  |  | Insuficiência nutritiva da refeição | Quanto menor, melhor |
-| KPI 28 | Insuficiência da quantidade de proteína em cada refeição |  |  | Insuficiência nutritiva da refeição | Quanto menor, melhor |
-| KPI 29 | Qualidade média das refeições servidas pelo programa |  |  | Qualidade das refeições | Neutro |
-| KPI 30 | Satisfação dos beneficiários em relação ao programa |  |  | Satisfação dos beneficiários | Neutro |
-| KPI 31 | Opinião sobre a continuidade do programa |  |  | Satisfação do beneficiário | Neutro |
+| 1 | Beneficiários em situação de vulnerabilidade alimentar grave |  |  | Condição atual dos beneficiários | Neutro |
+| 2 | Proporção de beneficiários em vulnerabilidade alimentar grave em relação a todos os beneficiários |  |  | Condição atual dos beneficiários | Neutro |
+| 3 | Frequência semanal média de acesso às refeições por beneficiários em vulnerabilidade alimentar grave |  |  | Condição atual dos beneficiários | Neutro |
+| 4 | Beneficiários em vulnerabilidade alimentar grave que já ficaram sem refeição mesmo aguardando na fila |  |  | Falha recorrente de atendimento ao público prioritário | Quanto menor, melhor |
+| 5 | Frequência semanal média de acesso às refeições por beneficiários que não estão em vulnerabilidade alimentar grave |  |  | Condição atual dos beneficiários | Quanto menor, melhor |
+| 6 | Dependência familiar do programa |  |  | Condição atual dos beneficiários | Neutro |
+| 7 | Insuficiência alimentar domiciliar |  |  | Condição atual dos beneficiários | Quanto menor, melhor |
+| 8 | Sinalização do restaurante |  |  | Condição atual dos restaurantes | Quanto menor, melhor |
+| 9 | Sinalização da quantidade de refeições servidas diariamente |  |  | Condição atual dos restaurantes | Quanto menor, melhor |
+| 10 | Sujeira percebida no restaurante |  |  | Condição atual dos restaurantes | Quanto menor, melhor |
+| 11 | Dificuldade de acesso ao restaurante |  |  | Condição atual dos restaurantes | Quanto menor, melhor |
+| 12 | Dificuldade de acesso ao restaurante por beneficiários da zona rural |  |  | Condição atual dos restaurantes | Quanto menor, melhor |
+| 13 | Dificuldade de acesso ao restaurante por beneficiários em vulnerabilidade alimentar grave |  |  | Condição atual dos restaurantes | Quanto menor, melhor |
+| 14 | Recebimento de pagamento e manuseio da refeição simultaneamente |  |  | Condição atual dos restaurantes | Quanto menor, melhor |
+| 15 | Não recebimento da refeição mesmo após esperar na fila |  |  | Condição atual dos restaurantes | Quanto menor, melhor |
+| 16 | Dificuldade de acesso ao restaurante por ausência de acessibilidade estrutural |  |  | Condição atual dos restaurantes | Quanto menor, melhor |
+| 17 | Dificuldade de acesso ao restaurante devido à localização |  |  | Condição atual dos restaurantes | Quanto menor, melhor |
+| 18 | Tempo médio de espera para recebimento da refeição |  |  | Condição atual dos restaurantes | Quanto menor, melhor |
+| 19 | Condição de espera para recebimento da refeição é precária |  |  | Condição atual dos restaurantes | Quanto menor, melhor |
+| 20 | Ocorrência de refeição estragada |  |  | Condição atual das refeições | Quanto menor, melhor |
+| 21 | Falta de variedade do cardápio do restaurante |  |  | Condição atual do cardápio | Quanto menor, melhor |
+| 22 | Beneficiários que não gostam completamente do cardápio |  |  | Condição percebida do cardápio | Quanto menor, melhor |
+| 23 | Beneficiários só descobrem o cardápio após comprar a ficha |  |  | Condição percebida do cardápio | Quanto menor, melhor |
+| 24 | Beneficiários descartam refeições quando não gostam do cardápio |  |  | Insatisfação e desperdício | Quanto menor, melhor |
+| 25 | Indiferença em relação às sugestões dos beneficiários |  |  | Relevância das sugestões dos beneficiários | Quanto menor, melhor |
+| 26 | Falta de divulgação sobre possibilidade de sugerir mudanças no cardápio |  |  | Relevância das sugestões dos beneficiários | Quanto menor, melhor |
+| 27 | Insuficiência da quantidade de comida em cada refeição |  |  | Insuficiência nutritiva da refeição | Quanto menor, melhor |
+| 28 | Insuficiência da quantidade de proteína em cada refeição |  |  | Insuficiência nutritiva da refeição | Quanto menor, melhor |
+| 29 | Qualidade média das refeições servidas pelo programa |  |  | Qualidade das refeições | Neutro |
+| 30 | Satisfação dos beneficiários em relação ao programa |  |  | Satisfação dos beneficiários | Neutro |
+| 31 | Opinião sobre a continuidade do programa |  |  | Satisfação do beneficiário | Neutro |
