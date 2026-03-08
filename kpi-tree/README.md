@@ -383,3 +383,5 @@
 | 29 | Qualidade média das refeições servidas pelo programa |  |  | Qualidade das refeições | Neutro |
 | 30 | Satisfação dos beneficiários em relação ao programa |  |  | Satisfação dos beneficiários | Neutro |
 | 31 | Opinião sobre a continuidade do programa |  |  | Satisfação do beneficiário | Neutro |
+
+#### Após a elaboração das perguntas, as regras de cálculo e as perguntas utilizadas no cálculo de cada KPI podem ser corretamente definidas.
