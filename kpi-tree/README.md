@@ -1,4 +1,4 @@
-#### Os indicadores KPI podem ser classificados em 6 categorias, a depender da sua função analítica dentro do sistema de monitoramento da política pública, ou seja, do tipo de métrica que buscam mensurar
+#### Os indicadores KPI podem ser classificados em 6 categorias, a depender da sua função analítica dentro do sistema de monitoramento da política pública, ou seja, do tipo de métrica que buscam mensurar.
 
 #### Os indicadores KPI são diretamente relacionados às hipóteses elaboradas pela equipe técnica, que eventualmente serão rechaçadas ou atestadas pelas respostas ao formulário. As hipóteses também são classificadas nas mesmas 6 categorias dos indicadores.
 
@@ -349,3 +349,220 @@
 ---
 
 #### Os KPIs se relacionam a cada uma das hipóteses, podendo se relacionar a mais de uma ao mesmo tempo.
+
+<table>
+<tr><td><strong>KPI 1:</strong></td><td>Beneficiários em situação de vulnerabilidade alimentar grave</td></tr>
+<tr><td><strong>Questões usadas:</strong></td><td></td></tr>
+<tr><td><strong>Regra de cálculo:</strong></td><td></td></tr>
+<tr><td><strong>Sentido do KPI:</strong></td><td>Neutro</td></tr>
+</table>
+
+<table>
+<tr><td><strong>KPI 2:</strong></td><td>Proporção de beneficiários em vulnerabilidade alimentar grave em relação a todos os beneficiários</td></tr>
+<tr><td><strong>Questões usadas:</strong></td><td></td></tr>
+<tr><td><strong>Regra de cálculo:</strong></td><td></td></tr>
+<tr><td><strong>Sentido do KPI:</strong></td><td>Neutro</td></tr>
+</table>
+
+<table>
+<tr><td><strong>KPI 3:</strong></td><td>Frequência semanal média de acesso às refeições por beneficiários em vulnerabilidade alimentar grave</td></tr>
+<tr><td><strong>Questões usadas:</strong></td><td></td></tr>
+<tr><td><strong>Regra de cálculo:</strong></td><td></td></tr>
+<tr><td><strong>Sentido do KPI:</strong></td><td>Neutro</td></tr>
+</table>
+
+<table>
+<tr><td><strong>KPI 4:</strong></td><td>Beneficiários em vulnerabilidade alimentar grave que já ficaram sem refeição mesmo aguardando na fila</td></tr>
+<tr><td><strong>Questões usadas:</strong></td><td></td></tr>
+<tr><td><strong>Regra de cálculo:</strong></td><td></td></tr>
+<tr><td><strong>Sentido do KPI:</strong></td><td>Quanto menor, melhor</td></tr>
+</table>
+
+<table>
+<tr><td><strong>KPI 5:</strong></td><td>Frequência semanal média de acesso às refeições por beneficiários que não estão em vulnerabilidade alimentar grave</td></tr>
+<tr><td><strong>Questões usadas:</strong></td><td></td></tr>
+<tr><td><strong>Regra de cálculo:</strong></td><td></td></tr>
+<tr><td><strong>Sentido do KPI:</strong></td><td>Quanto menor, melhor</td></tr>
+</table>
+
+<table>
+<tr><td><strong>KPI 6:</strong></td><td>Dependência familiar do programa</td></tr>
+<tr><td><strong>Questões usadas:</strong></td><td></td></tr>
+<tr><td><strong>Regra de cálculo:</strong></td><td></td></tr>
+<tr><td><strong>Sentido do KPI:</strong></td><td>Neutro</td></tr>
+</table>
+
+<table>
+<tr><td><strong>KPI 7:</strong></td><td>Insuficiência alimentar domiciliar</td></tr>
+<tr><td><strong>Questões usadas:</strong></td><td></td></tr>
+<tr><td><strong>Regra de cálculo:</strong></td><td></td></tr>
+<tr><td><strong>Sentido do KPI:</strong></td><td>Quanto menor, melhor</td></tr>
+</table>
+
+<table>
+<tr><td><strong>KPI 8:</strong></td><td>Sinalização do restaurante</td></tr>
+<tr><td><strong>Questões usadas:</strong></td><td></td></tr>
+<tr><td><strong>Regra de cálculo:</strong></td><td></td></tr>
+<tr><td><strong>Sentido do KPI:</strong></td><td>Quanto menor, melhor</td></tr>
+</table>
+
+<table>
+<tr><td><strong>KPI 9:</strong></td><td>Sinalização da quantidade de refeições servidas diariamente</td></tr>
+<tr><td><strong>Questões usadas:</strong></td><td></td></tr>
+<tr><td><strong>Regra de cálculo:</strong></td><td></td></tr>
+<tr><td><strong>Sentido do KPI:</strong></td><td>Quanto menor, melhor</td></tr>
+</table>
+
+<table>
+<tr><td><strong>KPI 10:</strong></td><td>Sujeira percebida no restaurante</td></tr>
+<tr><td><strong>Questões usadas:</strong></td><td></td></tr>
+<tr><td><strong>Regra de cálculo:</strong></td><td></td></tr>
+<tr><td><strong>Sentido do KPI:</strong></td><td>Quanto menor, melhor</td></tr>
+</table>
+
+<table>
+<tr><td><strong>KPI 11:</strong></td><td>Dificuldade de acesso ao restaurante</td></tr>
+<tr><td><strong>Questões usadas:</strong></td><td></td></tr>
+<tr><td><strong>Regra de cálculo:</strong></td><td></td></tr>
+<tr><td><strong>Sentido do KPI:</strong></td><td>Quanto menor, melhor</td></tr>
+</table>
+
+<table>
+<tr><td><strong>KPI 12:</strong></td><td>Dificuldade de acesso ao restaurante por beneficiários da zona rural</td></tr>
+<tr><td><strong>Questões usadas:</strong></td><td></td></tr>
+<tr><td><strong>Regra de cálculo:</strong></td><td></td></tr>
+<tr><td><strong>Sentido do KPI:</strong></td><td>Quanto menor, melhor</td></tr>
+</table>
+
+<table>
+<tr><td><strong>KPI 13:</strong></td><td>Dificuldade de acesso ao restaurante por beneficiários em vulnerabilidade alimentar grave</td></tr>
+<tr><td><strong>Questões usadas:</strong></td><td></td></tr>
+<tr><td><strong>Regra de cálculo:</strong></td><td></td></tr>
+<tr><td><strong>Sentido do KPI:</strong></td><td>Quanto menor, melhor</td></tr>
+</table>
+
+<table>
+<tr><td><strong>KPI 14:</strong></td><td>Recebimento de pagamento e manuseio da refeição simultaneamente</td></tr>
+<tr><td><strong>Questões usadas:</strong></td><td></td></tr>
+<tr><td><strong>Regra de cálculo:</strong></td><td></td></tr>
+<tr><td><strong>Sentido do KPI:</strong></td><td>Quanto menor, melhor</td></tr>
+</table>
+
+<table>
+<tr><td><strong>KPI 15:</strong></td><td>Não recebimento da refeição mesmo após esperar na fila</td></tr>
+<tr><td><strong>Questões usadas:</strong></td><td></td></tr>
+<tr><td><strong>Regra de cálculo:</strong></td></tr>
+<tr><td><strong>Sentido do KPI:</strong></td><td>Quanto menor, melhor</td></tr>
+</table>
+
+<table>
+<tr><td><strong>KPI 16:</strong></td><td>Dificuldade de acesso ao restaurante por ausência de acessibilidade estrutural</td></tr>
+<tr><td><strong>Questões usadas:</strong></td><td></td></tr>
+<tr><td><strong>Regra de cálculo:</strong></td></tr>
+<tr><td><strong>Sentido do KPI:</strong></td><td>Quanto menor, melhor</td></tr>
+</table>
+
+<table>
+<tr><td><strong>KPI 17:</strong></td><td>Dificuldade de acesso ao restaurante devido à localização</td></tr>
+<tr><td><strong>Questões usadas:</strong></td><td></td></tr>
+<tr><td><strong>Regra de cálculo:</strong></td></tr>
+<tr><td><strong>Sentido do KPI:</strong></td><td>Quanto menor, melhor</td></tr>
+</table>
+
+<table>
+<tr><td><strong>KPI 18:</strong></td><td>Tempo médio de espera para recebimento da refeição</td></tr>
+<tr><td><strong>Questões usadas:</strong></td><td></td></tr>
+<tr><td><strong>Regra de cálculo:</strong></td></tr>
+<tr><td><strong>Sentido do KPI:</strong></td><td>Quanto menor, melhor</td></tr>
+</table>
+
+<table>
+<tr><td><strong>KPI 19:</strong></td><td>Condição de espera para recebimento da refeição é precária</td></tr>
+<tr><td><strong>Questões usadas:</strong></td><td></td></tr>
+<tr><td><strong>Regra de cálculo:</strong></td></tr>
+<tr><td><strong>Sentido do KPI:</strong></td><td>Quanto menor, melhor</td></tr>
+</table>
+
+<table>
+<tr><td><strong>KPI 20:</strong></td><td>Ocorrência de refeição estragada</td></tr>
+<tr><td><strong>Questões usadas:</strong></td><td></td></tr>
+<tr><td><strong>Regra de cálculo:</strong></td></tr>
+<tr><td><strong>Sentido do KPI:</strong></td><td>Quanto menor, melhor</td></tr>
+</table>
+
+<table>
+<tr><td><strong>KPI 21:</strong></td><td>Falta de variedade do cardápio do restaurante</td></tr>
+<tr><td><strong>Questões usadas:</strong></td><td></td></tr>
+<tr><td><strong>Regra de cálculo:</strong></td></tr>
+<tr><td><strong>Sentido do KPI:</strong></td><td>Quanto menor, melhor</td></tr>
+</table>
+
+<table>
+<tr><td><strong>KPI 22:</strong></td><td>Beneficiários que não gostam completamente do cardápio</td></tr>
+<tr><td><strong>Questões usadas:</strong></td><td></td></tr>
+<tr><td><strong>Regra de cálculo:</strong></td></tr>
+<tr><td><strong>Sentido do KPI:</strong></td><td>Quanto menor, melhor</td></tr>
+</table>
+
+<table>
+<tr><td><strong>KPI 23:</strong></td><td>Beneficiários só descobrem o cardápio após comprar a ficha</td></tr>
+<tr><td><strong>Questões usadas:</strong></td><td></td></tr>
+<tr><td><strong>Regra de cálculo:</strong></td></tr>
+<tr><td><strong>Sentido do KPI:</strong></td><td>Quanto menor, melhor</td></tr>
+</table>
+
+<table>
+<tr><td><strong>KPI 24:</strong></td><td>Beneficiários descartam refeições quando não gostam do cardápio</td></tr>
+<tr><td><strong>Questões usadas:</strong></td></tr>
+<tr><td><strong>Regra de cálculo:</strong></td></tr>
+<tr><td><strong>Sentido do KPI:</strong></td><td>Quanto menor, melhor</td></tr>
+</table>
+
+<table>
+<tr><td><strong>KPI 25:</strong></td><td>Indiferença em relação às sugestões dos beneficiários</td></tr>
+<tr><td><strong>Questões usadas:</strong></td></tr>
+<tr><td><strong>Regra de cálculo:</strong></td></tr>
+<tr><td><strong>Sentido do KPI:</strong></td><td>Quanto menor, melhor</td></tr>
+</table>
+
+<table>
+<tr><td><strong>KPI 26:</strong></td><td>Falta de divulgação sobre possibilidade de sugerir mudanças no cardápio</td></tr>
+<tr><td><strong>Questões usadas:</strong></td></tr>
+<tr><td><strong>Regra de cálculo:</strong></td></tr>
+<tr><td><strong>Sentido do KPI:</strong></td><td>Quanto menor, melhor</td></tr>
+</table>
+
+<table>
+<tr><td><strong>KPI 27:</strong></td><td>Insuficiência da quantidade de comida em cada refeição</td></tr>
+<tr><td><strong>Questões usadas:</strong></td></tr>
+<tr><td><strong>Regra de cálculo:</strong></td></tr>
+<tr><td><strong>Sentido do KPI:</strong></td><td>Quanto menor, melhor</td></tr>
+</table>
+
+<table>
+<tr><td><strong>KPI 28:</strong></td><td>Insuficiência da quantidade de proteína em cada refeição</td></tr>
+<tr><td><strong>Questões usadas:</strong></td></tr>
+<tr><td><strong>Regra de cálculo:</strong></td></tr>
+<tr><td><strong>Sentido do KPI:</strong></td><td>Quanto menor, melhor</td></tr>
+</table>
+
+<table>
+<tr><td><strong>KPI 29:</strong></td><td>Qualidade média das refeições servidas pelo programa</td></tr>
+<tr><td><strong>Questões usadas:</strong></td></tr>
+<tr><td><strong>Regra de cálculo:</strong></td></tr>
+<tr><td><strong>Sentido do KPI:</strong></td><td>Neutro</td></tr>
+</table>
+
+<table>
+<tr><td><strong>KPI 30:</strong></td><td>Satisfação dos beneficiários em relação ao programa</td></tr>
+<tr><td><strong>Questões usadas:</strong></td></tr>
+<tr><td><strong>Regra de cálculo:</strong></td></tr>
+<tr><td><strong>Sentido do KPI:</strong></td><td>Neutro</td></tr>
+</table>
+
+<table>
+<tr><td><strong>KPI 31:</strong></td><td>Opinião sobre a continuidade do programa</td></tr>
+<tr><td><strong>Questões usadas:</strong></td></tr>
+<tr><td><strong>Regra de cálculo:</strong></td></tr>
+<tr><td><strong>Sentido do KPI:</strong></td><td>Neutro</td></tr>
+</table>
