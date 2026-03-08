@@ -345,3 +345,7 @@
             </td>
         </tr>
 </table>
+
+---
+
+#### Os KPIs se relacionam a cada uma das hipóteses, podendo se relacionar a mais de uma ao mesmo tempo.
