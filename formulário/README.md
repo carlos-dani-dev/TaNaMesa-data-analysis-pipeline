@@ -438,3 +438,95 @@
 </td>
 </tr>
 </table>
+
+<table>
+<tr>
+<td>Você já tentou sugerir alguma mudança ao cardápio do restaurante?</td>
+</tr>
+<tr>
+<td>
+<p>A) Não, pois não sabia que isso era possível</p>
+<p>B) Não, nunca tentei sugerir</p>
+<p>C) Sim, já tentei sugerir</p>
+</td>
+</tr>
+</table>
+
+<table>
+<tr>
+<td>A sua sugestão de mudança do cardápio foi atendida?</td>
+</tr>
+<tr>
+<td>
+<p>A) Não, não foi atendida</p>
+<p>B) Sim, foi atendida</p>
+</td>
+</tr>
+</table>
+
+<table>
+<tr>
+<td>Para uma única pessoa, a quantidade de comida das refeições é suficiente?</td>
+</tr>
+<tr>
+<td>
+<p>A) Não, não é suficiente pois não fico saciado(a) com a quantidade de comida servida</p>
+<p>B) Sim, é suficiente pois fico saciado(a) com a quantidade de comida servida</p>
+</td>
+</tr>
+</table>
+
+<table>
+<tr>
+<td>Geralmente, a quantidade de carne, frango ou peixe servida nas refeições é suficiente?</td>
+</tr>
+<tr>
+<td>
+<p>A) Não, a quantidade de proteína não é suficiente</p>
+<p>B) Sim, a quantidade de proteína é suficiente</p>
+</td>
+</tr>
+</table>
+
+<table>
+<tr>
+<td>Levando em conta todas as quentinhas que você já recebeu durante o programa Tá Na Mesa, como você avalia o sabor das refeições?</td>
+</tr>
+<tr>
+<td>
+<p>A) Muito bom</p>
+<p>B) Bom</p>
+<p>C) Regular</p>
+<p>D) Ruim</p>
+<p>E) Muito ruim</p>
+</td>
+</tr>
+</table>
+
+<table>
+<tr>
+<td>Em relação a todo o programa Tá Na Mesa, qual o seu nível de satisfação?</td>
+</tr>
+<tr>
+<td>
+<p>A) Muito satisfeito</p>
+<p>B) Satisfeito</p>
+<p>C) Indiferente</p>
+<p>D) Insatisfeito</p>
+<p>E) Muito insatisfeito</p>
+</td>
+</tr>
+</table>
+
+<table>
+<tr>
+<td>Na sua opinião, o programa Tá Na Mesa precisa ser continuado?</td>
+</tr>
+<tr>
+<td>
+<p>A) Não, não deve ser continuado</p>
+<p>B) Sim, precisa ser continuado</p>
+<p>C) Sou indiferente ao programa</p>
+</td>
+</tr>
+</table>
